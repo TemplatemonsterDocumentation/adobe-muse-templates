@@ -1,4 +1,2 @@
-adobe-muse-templates
-====================
-
-Docs for adobe muse templates
+# theme-documentation
+New Theme Documentation
